@@ -6,12 +6,12 @@ I've grown tired of the way Paradox localises some of their stuff lately, and I 
 
 # Country Name Changes
 
-Commonwealth ➨ Poland-Lithuania
+Commonwealth ➨ Poland-Lithuania \n
 Roman Empire ➨ Rome
 
 # War Name Changes 
 
-X-Y Punitive War ➨ War of the `Defender_Name` Coalition
-X Conquest of PROV ➨ `Attacker_Name`-`Defender_Name` War
-X War for Independence ➨ `Attacker_Name` War of Independence
-X Crusade against X ➨ Crusade of `War_Goal_Province_Name`
+X-Y Punitive War ➨ War of the `Defender_Name` Coalition \n
+X Conquest of PROV ➨ `Attacker_Name`-`Defender_Name` War \n
+X War for Independence ➨ `Attacker_Name` War of Independence \n
+X Crusade against X ➨ Crusade of `War_Goal_Province_Name` \n
